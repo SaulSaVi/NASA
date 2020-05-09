@@ -1,0 +1,22 @@
+{
+  "name": "proyecto_nasa",
+  "version": "1.0.0",
+  "description": "asteroides de nuestros cumpleaños",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaulSaVi/NASA.git"
+  },
+  "author": "Saul S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaulSaVi/NASA/issues"
+  },
+  "homepage": "https://github.com/SaulSaVi/NASA#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
